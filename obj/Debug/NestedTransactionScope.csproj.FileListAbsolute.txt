@@ -1,0 +1,10 @@
+C:\Repositorios\Meta\Estudos\NestedTransactionScope\bin\Debug\NestedTransactionScope.exe.config
+C:\Repositorios\Meta\Estudos\NestedTransactionScope\bin\Debug\NestedTransactionScope.exe
+C:\Repositorios\Meta\Estudos\NestedTransactionScope\bin\Debug\NestedTransactionScope.pdb
+C:\Repositorios\Meta\Estudos\NestedTransactionScope\bin\Debug\Dapper.dll
+C:\Repositorios\Meta\Estudos\NestedTransactionScope\bin\Debug\Dapper.xml
+C:\Repositorios\Meta\Estudos\NestedTransactionScope\obj\Debug\NestedTransactionScope.csproj.AssemblyReference.cache
+C:\Repositorios\Meta\Estudos\NestedTransactionScope\obj\Debug\NestedTransactionScope.csproj.CoreCompileInputs.cache
+C:\Repositorios\Meta\Estudos\NestedTransactionScope\obj\Debug\NestedTransactionScope.csproj.CopyComplete
+C:\Repositorios\Meta\Estudos\NestedTransactionScope\obj\Debug\NestedTransactionScope.exe
+C:\Repositorios\Meta\Estudos\NestedTransactionScope\obj\Debug\NestedTransactionScope.pdb
